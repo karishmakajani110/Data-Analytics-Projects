@@ -1,16 +1,17 @@
 # Nashville Housing Data Cleaning using SQL
 
 ## Project Overview
-This project focuses on cleaning and transforming a real-world housing dataset using SQL to improve data quality and prepare it for analysis and reporting.
+This project focuses on cleaning and transforming a real-world housing dataset using SQL to
+improve data quality and prepare it for analysis and reporting.
 
-The dataset was sourced from Kaggle and contains approximately 56,000 housing records from Nashville.
+The dataset contains approximately 56,000 housing records from Nashville.
 
 ## Tools & Technologies
 - SQL
 - Microsoft SQL Server (SSMS)
 
 ## Data Source
-- Public Nashville Housing dataset (Kaggle)
+- Sample Nashville housing dataset used for SQL data cleaning practice
 
 ## Data Cleaning & Transformation
 The following data cleaning steps were performed using SQL functions and techniques:
@@ -23,8 +24,11 @@ The following data cleaning steps were performed using SQL functions and techniq
 - Dropped unused and irrelevant columns to streamline the dataset
 
 ## Outcome
-The final output is a clean, structured dataset suitable for downstream analysis, reporting, or visualization.
+The final output is a clean, structured dataset suitable for downstream analysis, reporting,
+or visualization.
 
 ## Key Takeaway
-This project demonstrates strong SQL-based data cleaning skills and highlights the importance of preparing raw data before meaningful analysis can be performed.
+This project demonstrates strong SQL-based data cleaning skills and highlights the importance
+of preparing raw data before meaningful analysis can be performed.
+
 
