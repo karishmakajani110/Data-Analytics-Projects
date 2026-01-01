@@ -1,4 +1,4 @@
-# Automatic File Sorter (Python)
+# Automatic File Sorter in File Exploration (Python)
 
 This project is a Python automation script that organizes files in a directory by moving them into folders based on file type.
 
