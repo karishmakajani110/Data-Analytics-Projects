@@ -1,4 +1,4 @@
-# Bike Sales Dashboard using Excel
+# Sales Performance Analysis & Dashboard (Excel)
 
 ## Project Overview
 This project focuses on cleaning, analyzing, and visualizing bike sales data using Microsoft Excel
