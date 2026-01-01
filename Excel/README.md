@@ -1,43 +1,54 @@
 # Sales Performance Analysis & Dashboard (Excel)
 
 ## Project Overview
-This project focuses on cleaning, analyzing, and visualizing bike sales data using Microsoft Excel
-to understand customer purchasing behavior and demographic trends.
+This project focuses on cleaning, analyzing, and summarizing retail sales data using Microsoft Excel. The objective was to prepare raw transactional data, perform structured analysis using pivot tables, and create an interactive dashboard to support basic sales reporting and comparison.
 
-The goal was to prepare raw data, perform analysis using pivot tables, and build an interactive
-dashboard to support business insights.
+---
+
+## Objective
+- Clean and prepare raw sales data for analysis  
+- Analyze customer purchasing patterns using Excel pivot tables  
+- Build an interactive dashboard to summarize key sales metrics  
+
+---
 
 ## Tools & Technologies
-- Microsoft Excel
-- Pivot Tables
-- Nested IF Statements
+- Microsoft Excel  
+- Pivot Tables  
+- Calculated Fields  
+- Nested IF Statements  
+
+---
 
 ## Data Source
-- Sample bike sales dataset used for analysis and dashboard development
+A sample retail sales dataset was used for analysis and dashboard development.
 
-## Data Cleaning & Transformation
+---
+
+## Data Cleaning & Preparation
 The following data preparation steps were performed in Excel:
-- Removed duplicate records to ensure data accuracy
-- Standardized gender values (M -> Male, F -> Female)
-- Standardized marital status values (M -> Married, S -> Single)
-- Created a custom Age Bracket column using nested IF statements
-- Validated data consistency before analysis
+
+- Removed duplicate records to improve data accuracy  
+- Standardized categorical values (e.g., gender and marital status)  
+- Created an age bracket column using nested IF statements  
+- Validated data consistency prior to analysis  
+
+---
 
 ## Analysis Performed
-Using pivot tables, the following analyses were conducted:
-- Average income per bike purchase by gender
-- Bike purchases by age bracket
-- Bike purchases by commute distance
-- Purchase behavior by marital status, education level, and region
+Using pivot tables, the following summaries were created:
+
+- Average income by purchase category  
+- Purchase counts by age bracket  
+- Purchase patterns by commute distance  
+- Purchase distribution across marital status, education level, and region  
+
+---
 
 ## Dashboard Output
-An interactive Excel dashboard was created to visualize key metrics and trends.
+An interactive Excel dashboard was developed to visualize sales summaries and enable basic filtering across customer and demographic attributes.
 
-## Key Insight
-The analysis showed that middle-aged customers and higher-income groups were more likely to
-purchase bikes, with commute distance also influencing purchasing behavior.
+---
 
 ## Outcome
-This project demonstrates Excel-based data cleaning, transformation, and analytical skills,
-as well as the ability to convert raw data into a business-focused dashboard.
-
+This project demonstrates the ability to clean and prepare data in Excel, perform structured analysis using pivot tables, and present results through a clear, interactive dashboard suitable for basic reporting and exploration.
