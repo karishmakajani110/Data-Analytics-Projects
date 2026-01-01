@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration using SQL
+# Time-Series Data Analysis & Trend Evaluation (SQL)
 
 ## Project Overview
 This project explores global COVID-19 data using SQL to analyze infection rates, mortality trends,
