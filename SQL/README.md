@@ -1,29 +1,39 @@
 # SQL Projects
 
-SQL projects demonstrating data exploration, data cleaning, and transformation using real-world datasets.
+This repository contains SQL projects focused on data exploration, data cleaning, and transformation using structured datasets. The projects demonstrate practical SQL techniques commonly used for preparing data and performing analysis.
+
+---
 
 ## Projects
 
-### 🦠 Time-Series Data Analysis & Trend Evaluation (SQL)
-Analyzed global COVID-19 data to examine infection rates, mortality trends, and vaccination coverage across countries and continents.
+### ⏱️ Time-Series Data Analysis & Trend Evaluation (SQL)
+Analyzed a time-based dataset using SQL to examine trends and changes over time across different regions.
 
-**Skills demonstrated:**
-- CTEs
-- Temporary Tables
-- Views
-- Window Functions (PARTITION BY)
-- Aggregations and Joins
+**SQL techniques demonstrated:**
+- Common Table Expressions (CTEs)  
+- Window Functions (PARTITION BY)  
+- Aggregations  
+- Joins  
 
 ---
 
 ### 🏠 Housing Data Quality & Analysis (SQL)
-Cleaned and transformed a real-world housing dataset to improve data quality and prepare it for analysis.
+Cleaned and transformed a housing dataset using SQL to improve data consistency and prepare it for analysis and reporting.
 
-**Skills demonstrated:**
-- Data standardization
-- String manipulation
-- Conditional logic (CASE)
-- Removing duplicates using ROW_NUMBER()
-- Schema cleanup
+**SQL techniques demonstrated:**
+- Data standardization  
+- String manipulation  
+- Conditional logic (CASE)  
+- Removing duplicates using ROW_NUMBER()  
+- Schema cleanup  
 
-Each project folder contains a detailed README with objectives, data sources, and SQL techniques used.
+---
+
+## Repository Structure
+Each project folder contains a detailed README describing:
+- Project objective  
+- Data source  
+- Data cleaning and transformation steps  
+- SQL techniques used  
+
+The SQL scripts included in each folder demonstrate the queries used during analysis and data preparation.
